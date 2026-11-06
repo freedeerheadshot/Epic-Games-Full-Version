@@ -243,4 +243,4 @@ This repository serves as the official landing page for Epic Games. The software
 **Get the most recent version of Epic Games today!**
 
 ---
-**Last updated:** 2026-11-05 19:38:50 UTC
+**Last updated:** 2026-11-06 00:49:45 UTC
